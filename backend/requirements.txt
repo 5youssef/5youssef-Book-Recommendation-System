@@ -1,0 +1,11 @@
+Django
+djangorestframework
+openai
+requests
+pandas
+numpy
+scikit-learn
+psycopg2-binary
+python-dotenv
+django-cors-headers
+django-environ
