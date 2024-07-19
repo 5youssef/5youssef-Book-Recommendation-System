@@ -102,6 +102,12 @@ DATABASES = {
     }
 }
 
+# Load the Book API key
+BOOK_API_KEY = env('BOOK_API_KEY')
+
+# Load the OpenAI API key
+OPENAI_API_KEY = env('OPENAI_API_KEY')
+
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
